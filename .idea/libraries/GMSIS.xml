@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GMSIS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GMSIS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
